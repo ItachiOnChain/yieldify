@@ -50,6 +50,7 @@ Transform your yield-bearing assets into tradeable Principal Tokens (PT) and Yie
 
 ### Core Formula
 <img width="177" height="83" alt="image" src="https://github.com/user-attachments/assets/99f6b1de-ce7e-4a2f-b1c7-95203de54dd1" />
+
 ## ⚙️ How It Works
 
 ### 1. **Principal Token (PT)**
